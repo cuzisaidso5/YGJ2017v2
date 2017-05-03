@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"battlerName":"Player","characterIndex":5,"characterName":"ygj_actors","classId":1,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"ygj_actor","traits":[],"initialLevel":1,"maxLevel":99,"name":"Player","nickname":"Riches","note":"","profile":""},
+{"id":2,"battlerName":"Comrade1_4","characterIndex":3,"characterName":"ygj_actors","classId":2,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"ygj_actor","traits":[],"initialLevel":1,"maxLevel":99,"name":"Comrade 1","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Comrade1_2","characterIndex":2,"characterName":"ygj_actors","classId":5,"equips":[3,0,0,0,0],"faceIndex":1,"faceName":"ygj_actor","traits":[],"initialLevel":1,"maxLevel":99,"name":"Comrade 2","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Comrade1_1","characterIndex":1,"characterName":"ygj_actors","classId":6,"equips":[4,0,0,0,0],"faceIndex":0,"faceName":"ygj_actor","traits":[],"initialLevel":1,"maxLevel":99,"name":"Comrade 3","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"Player","characterIndex":5,"characterName":"ygj_actors","classId":1,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"ygj_actor","traits":[],"initialLevel":1,"maxLevel":99,"name":"Player","nickname":"Freedom","note":"","profile":""},
+{"id":6,"battlerName":"Soldier1_1","characterIndex":0,"characterName":"ygj_actors","classId":8,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"ygj_enemy","traits":[],"initialLevel":1,"maxLevel":99,"name":"Black Guard","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"Soldier1_2","characterIndex":6,"characterName":"ygj_actors","classId":9,"equips":[3,0,0,0,0],"faceIndex":2,"faceName":"ygj_enemy","traits":[],"initialLevel":1,"maxLevel":99,"name":"Red Guard","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"Soldier1_3","characterIndex":7,"characterName":"ygj_actors","classId":10,"equips":[4,0,0,0,0],"faceIndex":3,"faceName":"ygj_enemy","traits":[],"initialLevel":1,"maxLevel":99,"name":"Blue Guard","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"Doctor1_1","characterIndex":4,"characterName":"ygj_actors","classId":7,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"ygj_enemy","traits":[],"initialLevel":1,"maxLevel":99,"name":"Doctor","nickname":"Scientist","note":"<Scale Sprite: 150%>","profile":""}
+]
